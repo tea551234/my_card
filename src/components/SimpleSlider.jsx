@@ -18,7 +18,8 @@ export default class SimpleSlider extends Component {
                 <h2> Single Item</h2>
                 <Slider {...settings}>
                     <div>
-                        <img src={card} />
+                        <a href="https://react-slick.neostack.com/docs/example/responsive"><img src={card} /></a>
+                        
                     </div>
                     <div>
                     <img src={card} />
